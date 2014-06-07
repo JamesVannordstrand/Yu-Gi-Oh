@@ -1,0 +1,6 @@
+5
+LifePoints : (How much is being added or deducted, Which Player)
+Get Cards : (How many are being drawn, Which Player)
+Destroy Hand : (How many cards to discard, Which Player)
+Destroy Field : (How many cards to destroy, Which Player)
+Revive : (How many cards to revive, Which Player, From Where)
